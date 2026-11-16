@@ -1,9 +1,15 @@
 ---
-title: Homework 2 -- Multiple Object Video Detection (VisDrone-VID)
+title: Homework 2 -- Multiple Object Video Detection
 author: Yurii Bobas
 course: Artificial Intelligence · UCU
 date: 2026-11-16
 ---
+
+## Посилання на Google Colab
+
+https://colab.research.google.com/drive/18AYkPhuHoFa-cHgonzKBq4BTWIIoztMo?usp=sharing
+
+Також цей ноутбук завантажений в репозиторії
 
 ## 1. Methodology and motivation
 
